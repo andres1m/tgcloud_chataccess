@@ -6,7 +6,7 @@ import ru.andres1m.tgcloud.chataccess.service.MessageService;
 
 import java.util.Map;
 
-@RestController("/tgcloud/chataccess/api/")
+@RestController
 @RequestMapping("/tgcloud/chataccess/api/")
 @AllArgsConstructor
 public class ApiController {
